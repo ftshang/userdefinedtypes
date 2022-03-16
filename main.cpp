@@ -9,6 +9,7 @@ float GPA;
 unsigned int SATScore;
 
 void run(int howFast, bool startWithLeftFoot);
+void sprint(int speed, bool startWithLeftFoot);
 
 };
 
